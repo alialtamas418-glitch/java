@@ -1,5 +1,5 @@
 /*
-Coder: Misam Karim
+Coder:Altamash Ali
 Date: 13/08/26
 AIM: WAP to create a program demonstrating multilevel inheritance using the classes
 Person, Employee, and Manager. Accept the manager details and display them. Handle
